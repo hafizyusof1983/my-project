@@ -1,6 +1,6 @@
 <?
 
-$FILENAME = ""; //SET YOUR FILE HERE
+$FILENAME = ""; //SET YOUR FILE HERE 123
 
 if (!$FILENAME || !file_exists($FILENAME)) {
 	echo "Please set your target file \$FILENAME on line 2\n";
